@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated FAISS files
+storage/index.faiss
+storage/chunks.pkl
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
